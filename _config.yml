@@ -79,8 +79,18 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - JekylNow-LICENSE
+    - README.md
+    - attributions.txt
+    - CNAME
+    - .git/
+    - .gitignore
+    - .DS_Store
+    - Thumbs.db
+
+# Include the following files and directories
+include:
+    - favicon/ # favicons
