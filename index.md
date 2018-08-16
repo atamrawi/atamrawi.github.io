@@ -7,7 +7,4 @@ Ahmed holds a PhD and MSc degrees in Computer Engineering from [Iowa State Unive
 
 Ahmed is currently a research scientist at [EnSoft Corp.](https://www.ensoftcorp.com) working on advancing [Atlas](http://www.ensoftcorp.com/atlas/), a novel program analysis platform, and [Modelify](https://www.ensoftcorp.com/modelify/), a conversion tool from C code to Simulink models. His past work experience includes: assistant professor at [Yarmouk University](https://www.yu.edu.jo/), a software development engineer intern at [Amazon](https://www.amazon.com), a research and teaching assistant at [Iowa State University](https://www.iastate.edu/), research and development engineer at [G.ho.st](https://en.wikipedia.org/wiki/G.ho.st), and software development engineer intern at [MBRM](https://www.mbrm.com/.)
 
-### Additional Resources
-* [Teaching Statement](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-teaching_statement.pdf)
-* [Reasearch Statement](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-research_statement.pdf)
-* [1-Page Resume / CV](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-resume.pdf)
+Want to find more about Ahmed, then read through his [Teaching Statement](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-teaching_statement.pdf), [Reasearch Statement](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-research_statement.pdf), and [One-Page CV](https://raw.githubusercontent.com/atamrawi/atamrawi.github.io/master/resources/Tamrawi,Ahmed-resume.pdf).
