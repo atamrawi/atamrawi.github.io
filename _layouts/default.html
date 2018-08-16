@@ -62,7 +62,7 @@
         <footer class="footer">
           {% include svg-icons.html %}
           <p style="font-size: 12px;font-style: italic;color: gray;margin: 0;padding: 0" align="center">
-              Last Updated on&nbsp;{% site.time %}
+              Last Updated on:&nbsp;{{ site.time | date: '%-d %B %Y' }}
           </p>
         </footer>
       </div>
