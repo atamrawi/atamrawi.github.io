@@ -8,7 +8,7 @@ permalink: /teaching/
 This page contains currently teaching and previously taught courses.
 
 ## Current Teaching
-* **Software Constructon** (Fall 2018)
+* **Software Constructon** ([Fall 2018](/swen6301))
 
 ## Earlier Teaching
 * **Introduction to Programming in C++** (Summer 2017)
