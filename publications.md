@@ -21,7 +21,7 @@ This page contains selected talks, papers, and other publications.
 ## 2018
 
 - <a name="PCGSCPJournal"></a>Ahmed Tamrawi, Suresh Kothari. **Projected Control Graph for Computing Relevant Program Behaviors.** *[Science of Computer Programming Journal](https://www.sciencedirect.com/journal/science-of-computer-programming)*, Elsevier, October 2018.<br/>
-**Talk:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Paper](/publications/PCG-SCP-Journal.pdf)]
+**Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Paper](/publications/PCG-SCP-Journal.pdf)]
 <div class="abstract">
 <p>Many software engineering tasks require analysis and verification of all behaviors relevant to the task. For example, all relevant behaviors must be analyzed to verify a safety or security property. An efficient algorithm must compute the relevant behaviors directly without computing all the behaviors. This is crucial in practice because it is computationally intractable if one were to compute all behaviors to find the subset of relevant behaviors.</p>
 
