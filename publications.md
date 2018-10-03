@@ -11,14 +11,15 @@ This page contains selected talks, papers, and other publications.
 
 ## Upcoming
 
-- <a name="DySDoc3"></a>Ahmed Tamrawi, Sharwan Ram, Payas Awadhutkar, Benjamin Holland, Ganesh Ram Santhanam, Suresh Kothari. **DynaDoc: Automated On-Demand Context-Specific Documentation.** *[Third International Workshop on Dynamic Software Documentation (DySDoc3)](https://dysdoc.github.io/dysdoc3)*, Madrid, Spain, September 2018.<br/>
-**Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Sample Output](https://ensoftcorp.github.io/DynaDoc/)]
-<div class="abstract"><p>This 2018 DOCGEN Challenge paper describes DynaDoc, an automated documentation system for on-demand context-specific documentation. A key novelty is the use of graph database technology with an eXtensible Common Software Graph Schema (XCSG). Using XCSG-based query language, DynaDoc can mine efficiently and accurately a variety of program artifacts and graph abstractions from millions of lines of code to provide semantically relevant and rich documentation. DynaDoc leverages the extensibility of XCSG to incorporate information about commits, issues, and other supplementary artifacts and links that information to program artifacts.</p>
-</div>
 
 <a name="2018"></a>
 
 ## 2018
+
+- <a name="DySDoc3"></a>Ahmed Tamrawi, Sharwan Ram, Payas Awadhutkar, Benjamin Holland, Ganesh Ram Santhanam, Suresh Kothari. **DynaDoc: Automated On-Demand Context-Specific Documentation.** *[Third International Workshop on Dynamic Software Documentation (DySDoc3)](https://dysdoc.github.io/dysdoc3)*, Madrid, Spain, September 2018.<br/>
+**Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Sample Output](https://ensoftcorp.github.io/DynaDoc/)] -  **Won best challenge entry award**
+<div class="abstract"><p>This 2018 DOCGEN Challenge paper describes DynaDoc, an automated documentation system for on-demand context-specific documentation. A key novelty is the use of graph database technology with an eXtensible Common Software Graph Schema (XCSG). Using XCSG-based query language, DynaDoc can mine efficiently and accurately a variety of program artifacts and graph abstractions from millions of lines of code to provide semantically relevant and rich documentation. DynaDoc leverages the extensibility of XCSG to incorporate information about commits, issues, and other supplementary artifacts and links that information to program artifacts.</p>
+</div>
 
 - <a name="PCGSCPJournal"></a>Ahmed Tamrawi, Suresh Kothari. **Projected Control Graph for Computing Relevant Program Behaviors.** *[Science of Computer Programming Journal](https://www.sciencedirect.com/journal/science-of-computer-programming)*, Elsevier, October 2018.<br/>
 **Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Paper](/publications/PCG-SCP-Journal.pdf)]
