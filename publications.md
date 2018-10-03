@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 {::options auto_ids="false" /}
 
-This page contains selected talks, papers, and other publications.
+This page contains selected talks, papers, and other publications. 
+[Google Scholar Profile](https://scholar.google.com/citations?user=jwmSlGkAAAAJ&hl=en)
 
 <a name="upcoming"></a>
 
