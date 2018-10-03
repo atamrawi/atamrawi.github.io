@@ -12,5 +12,5 @@ This page contains currently teaching and previously taught courses.
 
 ## Earlier Teaching
 * **Introduction to Programming in C++** ([Summer 2017](/teaching/cpe150))
-* **Operating System Concepts** (Spring 2017)
-* **Numerical Analysis for Engineers** (Spring 2017)
+* **Operating System Concepts** ([Spring 2017](/teaching/cpe460))
+* **Numerical Analysis for Engineers** ([Spring 2017](/teaching/cpe310))
