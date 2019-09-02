@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SWEN 6301 Sofware Construction
-permalink: /teaching/swen6301
+permalink: /teaching/swen6301_fall18
 ---
 
 # Software Construction 6301
@@ -10,10 +10,10 @@ permalink: /teaching/swen6301
 
 **Class Meets:** Saturdays 2:00-4:50pm in Masri 402
 
-**Syllabus:** [Revision 1](/teaching/swen6301-fall19/SWEN6301-syllabus-fall2019.pdf)
+**Syllabus:** [Revision 2](/teaching/swen6301-fall18/SWEN6301-syllabus-fall2018.pdf)
 
 ---
-<!--
+
 ## Course Schedule
 
 ### ~~Saturday, September 1, 2018~~
@@ -127,4 +127,3 @@ permalink: /teaching/swen6301
 - **Due:** Assignments, Research Paper, and Final Project Report at 2:00 PM. Late submissions will not be tolerated, it is your final call.
 - **Lecture:** Final Project Presentations
 - **Exam:** [Final Exam](/teaching/swen6301-fall18/final-exam/SWEN6301_Final_Exam.pdf) (due on Thursday, January 3, 2019 @ 5:00 PM), [DataProcessor.java](/teaching/swen6301-fall18/final-exam/DataProcessor.java)
--->
