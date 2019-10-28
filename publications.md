@@ -9,6 +9,14 @@ This page contains selected talks, papers, and other publications.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jwmSlGkAAAAJ&hl=en)
 
+<a name="2019"></a>
+
+## 2019
+
+- <a name="BirzeitTalk"></a>Ahmed Tamrawi. **Demystifying Software Security: A Euler's Method Approach for Analyzing Complex Software** *[Birzeit University](https://www.birzeit.edu/en/events/Demystifying-Software-Security)*, Ramallah, Palestine, October 2019.<br/>
+**Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Slides](/publications/Tamrawi,Ahmed-Birzeit-Invited-Talk.pdf)] 
+<div class="abstract"><p>This talk covers the following topics: (1) the importance of software security, (2) contemporary approaches to software analysis, (3) intractability and challenges of software analysis, (4) the need for intelligence amplifying (IA) tools for practical software analysis, (5) Atlas as a novel IA tool for software analysis, and (6) research directions based on experience on multi-million DARPA programs.</p>
+</div>
 
 <a name="2018"></a>
 
