@@ -1,16 +1,16 @@
 ---
 layout: default
-title: SWEN 6301 Sofware Construction
-permalink: /teaching/swen6301
+title: COMP 4384 Sofware Security
+permalink: /teaching/comp4384_fall20
 ---
 
-# Software Construction 6301
+# Software Security 4384
 
 **Instructor:** Ahmed Tamrawi
 
 **Class Meets:** Saturdays 2:15-4:55pm in Masri 402
 
-**Syllabus:** [Revision 4](/teaching/swen6301-fall19/SWEN6301-syllabus-fall2019.pdf)
+**Syllabus:** [Revision 1](/teaching/swen6301-fall19/SWEN6301-syllabus-fall2019.pdf)
 
 **[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdwe6CQ1RbXK8Yp09B73LBvPRauZdRQHwjDbOXswe8BXaZhUg/viewform?usp=sf_link)**
 

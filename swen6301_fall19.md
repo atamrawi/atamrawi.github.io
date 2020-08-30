@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SWEN 6301 Sofware Construction
-permalink: /teaching/swen6301
+permalink: /teaching/swen6301_fall19
 ---
 
 # Software Construction 6301
