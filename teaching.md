@@ -8,7 +8,8 @@ permalink: /teaching/
 This page contains currently teaching and previously taught courses.
 
 ## Current Teaching
-* **Software Constructon** ([Fall 2018](/teaching/swen6301_fall18), [Fall 2019](/teaching/swen6301))
+* **Software Constructon** ([Fall 2018](/teaching/swen6301_fall18), [Fall 2019](/teaching/swen6301_fall19), [Fall 2020](/teaching/swen6301))
+* **Software Security** ([Fall 2020](/teaching/comp4384))
 
 ## Earlier Teaching
 * **Introduction to Programming in C++** ([Summer 2017](/teaching/cpe150))
