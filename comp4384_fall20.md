@@ -10,7 +10,7 @@ permalink: /teaching/comp4384_fall20
 
 **Class Meets:** Tuesdays and Thursdays 12:50-2:05pm
 
-**Syllabus:** [Revision 1](/teaching/comp4384-fall20/COMP4384-syllabus-fall2020)
+**Syllabus:** [Revision 1](/teaching/comp4384-fall20/COMP4384-syllabus-fall2020.pdf)
 
 <!--**[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdwe6CQ1RbXK8Yp09B73LBvPRauZdRQHwjDbOXswe8BXaZhUg/viewform?usp=sf_link)**-->
 
@@ -20,8 +20,8 @@ permalink: /teaching/comp4384_fall20
 ## Course Schedule
 
 ### ~~Saturday, September 7, 2019~~
-- **Lecture:** [Course Introduction](/teaching/swen6301-fall19/SWEN6301_Module_01.pdf)
-- **Review:** [Syllabus](/teaching/swen6301-fall19/SWEN6301-syllabus-fall2019.pdf), [Students Guide](/teaching/swen6301-fall18/students-guide.pdf)
+- **Lecture:** [Course Introduction](/teaching/comp4384-fall20/SWEN6301_Module_01.pdf)
+- **Review:** [Syllabus](/teaching/comp4384-fall20/COMP4384-syllabus-fall2020.pdf)
 - **Reading:** Chapter 1 (CC2) and Chapter 1 (SE1)
 
 ---
