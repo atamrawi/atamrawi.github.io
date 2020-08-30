@@ -19,7 +19,7 @@ permalink: /teaching/swen6301_fall20
 
 ## Course Schedule
 
-### Week 01, Saturday, September 12, 2020~~
+## Week 01, Saturday, September 12, 2020
 - **Lecture:** [Course Introduction](/teaching/swen6301-fall20/SWEN6301_Module_01.pdf)
 - **Review:** [Syllabus](/teaching/swen6301-fall20/SWEN6301-syllabus-fall2020.pdf)
 - **Reading:** Chapter 1 (CC2) and Chapter 1 (SE1)
