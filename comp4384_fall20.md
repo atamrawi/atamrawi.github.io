@@ -22,7 +22,7 @@ permalink: /teaching/comp4384_fall20
 ## Week 01, 09/07 - 09/11: Course Introduction
 
 - Tuesday, September 8, 2020
-   - Lecture: [Course Introduction](/teaching/comp4384-fall20/00-Course_Overview.pdf), [History of Computer Security]((/teaching/comp4384-fall20/01-History_Of_Computer_Security.pdf))
+   - Lecture: [Course Introduction](/teaching/comp4384-fall20/00-Course_Overview.pdf), [History of Computer Security](/teaching/comp4384-fall20/01-History_Of_Computer_Security.pdf)
    - Review: [Syllabus](/teaching/comp4384-fall20/COMP4384-syllabus-fall2020.pdf)
    - Reading: Chapter 1 from [B2]
 
