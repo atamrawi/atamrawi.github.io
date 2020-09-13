@@ -44,3 +44,5 @@ permalink: /teaching/comp4384_fall20
    - **Assignments:** [Assignment 1](/teaching/comp4384-fall20/COMP4384-Assignment1.pdf) (due on Saturday, September 28, 2019 at 2:00 PM)
    - Reading: Chapter 1 from [B4], [Reflections on Trusting Trust](/teaching/comp4384-fall20/p761-thompson.pdf)
    - Optional Reading: Chapter 1 from [B5]
+
+---
