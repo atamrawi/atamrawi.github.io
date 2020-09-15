@@ -46,3 +46,20 @@ permalink: /teaching/comp4384_fall20
    - Optional Reading: Chapter 1 from [B5]
 
 ---
+
+## Week 03, 09/21 - 09/24: Operating Systems Concepts
+
+- **Tuesday, September 15, 2020**
+
+- **Thursday, September 17, 2020**
+
+---
+
+## Week 04, 09/28 - 10/1: Application Program Security
+
+- **Tuesday, September 29, 2020**
+   - Due: Assignment 1 at 2:00 PM
+
+- **Thursday, October 1, 2020**
+
+---
