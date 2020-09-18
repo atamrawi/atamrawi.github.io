@@ -41,7 +41,7 @@ permalink: /teaching/comp4384_fall20
 
 - **Thursday, September 17, 2020**
    - Lecture: [The Software Security Problem](/teaching/comp4384-fall20/03-The_Software_Security_Problem.pdf)
-   - Assignments: [Assignment 1 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment1.pdf) (due on Saturday, September 29, 2019 at 1:00 PM)
+   - Assignments: [Assignment 1 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment1.pdf) (due on Saturday, September 29, 2020 at 1:00 PM)
    - Reading: Chapter 1 from [B4], [Reflections on Trusting Trust](/teaching/comp4384-fall20/p761-thompson.pdf)
    - Optional Reading: Chapter 1 from [B5]
 
@@ -58,7 +58,7 @@ permalink: /teaching/comp4384_fall20
 ## Week 04, 09/28 - 10/1: Application Program Security
 
 - **Tuesday, September 29, 2020**
-   - Due: Assignment 1 at 2:00 PM
+   - Due: Assignment 1 at 1:00 PM
 
 - **Thursday, October 1, 2020**
 
