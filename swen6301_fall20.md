@@ -34,23 +34,10 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 03, Saturday, September 26, 2020
-<!-->
-- **Lecture:** [Agile Development and Requirements Engineering](/teaching/swen6301-fall19/SWEN6301_Module_03.pdf)
-- **Assignments:** [Assignment 1 "Revision 2"](teaching/swen6301-fall19/SWEN6301-Assignment1.pdf) (due on Saturday, September 28, 2019 at 2:00 PM)
-- **Final Project** [Final Project (draft)](teaching/swen6301-fall19/SWEN6301-Project.pdf)
-- **Reading:** Chapter 3 (SE1) and Chapter 4 (SE1)
--->
 
 ---
 
 ### Week 04, Saturday, October 3, 2020
 - **Due:** Assignment 1 at 2:00 PM
-
-<!-->
-- **Lecture:** Continue [Agile Development and Requirements Engineering](/teaching/swen6301-fall19/SWEN6301_Module_03.pdf) and [System Modeling and Architectural Design](/teaching/swen6301-fall19/SWEN6301_Module_04.pdf)
-- **Assignments:** [Assignment 2 "Revision 2"](teaching/swen6301-fall19/SWEN6301-Assignment2.pdf) (due on Saturday, October 19, 2019 at 2:00 PM)
-- **Final Project** [Final Project](teaching/swen6301-fall19/SWEN6301-Project.pdf)
-- **Reading:** Chapter 4 (SE1) and Chapter 5 (SE1)
--->
 
 ---
