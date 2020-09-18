@@ -27,7 +27,7 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 02, Saturday, September 19, 2020
-- **Lecture:** [Software Development Processes](/teaching/swen6301-fall19/SWEN6301_Module_02.pdf)
+- **Lecture:** [Software Development Processes](/teaching/swen6301-fall20/SWEN6301_Module_02.pdf)
 - **Assignments:** [Assignment 1](teaching/swen6301-fall20/SWEN6301-Assignment1.pdf) (due on Saturday, October 3, 2020 at 2:00 PM)
 - **Reading:** Chapter 2 (SE1)
 
