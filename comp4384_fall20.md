@@ -32,7 +32,7 @@ permalink: /teaching/comp4384_fall20
    
 ---
 
-## Week 02, 09/14 - 09/17: Software Security Problem
+## ~~Week 02, 09/14 - 09/17: Software Security Problem~~
 
 - **Tuesday, September 15, 2020**
    - Lecture: [Security Blanket or Security Theater](/teaching/comp4384-fall20/02-Security_Blancket_or_Security_Theater.pdf)
