@@ -12,7 +12,7 @@ permalink: /teaching/comp4384_fall20
 
 **Syllabus:** [Revision 2](/teaching/comp4384-fall20/COMP4384-syllabus-fall2020.pdf)
 
-<!--**[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdwe6CQ1RbXK8Yp09B73LBvPRauZdRQHwjDbOXswe8BXaZhUg/viewform?usp=sf_link)**-->
+**[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfRaFT_8y3nbf5OrgjrVhZ3tqTRrfiAWwbAmu5DGCkh47ykew/viewform?usp=sf_link)**
 
 
 ---
@@ -50,8 +50,8 @@ permalink: /teaching/comp4384_fall20
 ## Week 03, 09/21 - 09/24: Operating Systems Concepts
 
 - **Tuesday, September 22, 2020**
-- Lecture: Continue [The Software Security Problem](/teaching/comp4384-fall20/03-The_Software_Security_Problem.pdf) and [Operating Systems Concepts](/teaching/comp4384-fall20/04-Operating_Systems_Concepts.pdf)
-- Reading: Section 3.1 and Section 3.4.1 from [B1]
+- Lecture: Continue [The Software Security Problem](/teaching/comp4384-fall20/03-The_Software_Security_Problem.pdf) 
+- Reading: Chapter 1 from [B4]
 
 - **Thursday, September 24, 2020**
 - Lecture: [Operating Systems Concepts](/teaching/comp4384-fall20/04-Operating_Systems_Concepts.pdf)
