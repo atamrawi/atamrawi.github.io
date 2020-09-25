@@ -26,7 +26,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 02, Saturday, September 19, 2020
+### ~~Week 02, Saturday, September 19, 2020~~
 - **Lecture:** [Software Development Processes](/teaching/swen6301-fall20/SWEN6301_Module_02.pdf)
 - **Assignments:** [Assignment 1](teaching/swen6301-fall20/SWEN6301-Assignment1.pdf) (due on Saturday, October 3, 2020 at 2:00 PM)
 - **Reading:** Chapter 2 (SE1)
@@ -34,10 +34,68 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 03, Saturday, September 26, 2020
+- **Lecture:** [Agile Development and Requirements Engineering](/teaching/swen6301-fall20/SWEN6301_Module_03.pdf)
+- **Final Project** [Final Project](teaching/swen6301-fall20/SWEN6301-Project.pdf)
+- **Reading:** Chapter 3 (SE1) and Chapter 4 (SE1)
 
 ---
 
 ### Week 04, Saturday, October 3, 2020
 - **Due:** Assignment 1 at 2:00 PM
+
+---
+
+### Week 05, Saturday, October 10, 2020
+
+---
+
+### Week 06, Saturday, October 17, 2020
+
+---
+
+### Week 07, Saturday, October 24, 2020
+
+---
+
+### Week 08, Saturday, October 31, 2020
+- **Due:** Part A for the Final Project at 2:00 PM
+
+---
+
+### Week 09, Saturday, November 7, 2020
+
+---
+
+### Week 10, Saturday, November 14, 2020
+
+---
+
+### Week 11, Saturday, November 21, 2020
+
+---
+
+### Week 12, Saturday, November 28, 2020
+
+---
+
+### Week 13, Saturday, December 5, 2020
+
+---
+
+### Week 14, Saturday, December 12, 2020
+- **Due:** Part B of the Final Project at 2:00 PM
+
+---
+
+### Week 15, Saturday, December 19, 2020
+
+---
+
+### Week 16, Saturday, December 26, 2020
+
+---
+
+### TBD
+- **Exam:** Final Exam
 
 ---
