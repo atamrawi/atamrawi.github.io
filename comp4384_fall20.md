@@ -90,7 +90,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 06, 10/19 - 10/22: 
+## Week 07, 10/19 - 10/22: 
 
 - **Tuesday, October 20, 2020**
 
@@ -98,7 +98,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 07, 10/26 - 10/29: 
+## Week 08, 10/26 - 10/29: 
 
 - **Tuesday, October 27, 2020**
 
@@ -106,7 +106,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 08, 11/02 - 11/05: 
+## Week 09, 11/02 - 11/05: 
 
 - **Tuesday, November 03, 2020**
 
@@ -114,7 +114,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 09, 11/09 - 11/12: 
+## Week 10, 11/09 - 11/12: 
 
 - **Tuesday, November 10, 2020**
 
@@ -122,7 +122,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 10, 11/16 - 11/19: 
+## Week 11, 11/16 - 11/19: 
 
 - **Tuesday, November 17, 2020**
 
@@ -130,7 +130,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 11, 11/23 - 11/26: 
+## Week 12, 11/23 - 11/26: 
 
 - **Tuesday, November 24, 2020**
 
@@ -138,7 +138,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 12, 11/30 - 12/03: 
+## Week 13, 11/30 - 12/03: 
 
 - **Tuesday, December 1, 2020**
 
@@ -146,7 +146,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 13, 12/07 - 12/10: 
+## Week 14, 12/07 - 12/10: 
 
 - **Tuesday, December 8, 2020**
 
@@ -154,7 +154,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 14, 12/14 - 12/17: 
+## Week 15, 12/14 - 12/17: 
 
 - **Tuesday, December 15, 2020**
 
@@ -162,18 +162,10 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 15, 12/21 - 12/24: 
+## Week 16, 12/21 - 12/24: 
 
 - **Tuesday, December 22, 2020**
 
 - **Thursday, December 24, 2020**
-
----
-
-## Week 16, 12/28 - 12/31: 
-
-- **Tuesday, December 29, 2020**
-
-- **Thursday, December 31, 2020**
 
 ---
