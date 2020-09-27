@@ -59,7 +59,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 04, 09/28 - 10/1: Integer Overflow Attacks
+## Week 04, 09/28 - 10/01: Integer Overflow Attacks
 
 - **Tuesday, September 29, 2020**
    - Due: Assignment 1 at 1:00 PM
@@ -73,7 +73,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 05, 10/5 - 10/8: Buffer Overflow Attacks
+## Week 05, 10/05 - 10/08: Buffer Overflow Attacks
 
 - **Tuesday, October 6, 2020**
 
@@ -103,5 +103,77 @@ permalink: /teaching/comp4384_fall20
 - **Tuesday, October 27, 2020**
 
 - **Thursday, October 29, 2020**
+
+---
+
+## Week 08, 11/02 - 11/05: 
+
+- **Tuesday, November 03, 2020**
+
+- **Thursday, November 05, 2020**
+
+---
+
+## Week 09, 11/09 - 11/12: 
+
+- **Tuesday, November 10, 2020**
+
+- **Thursday, November 12, 2020**
+
+---
+
+## Week 10, 11/16 - 11/19: 
+
+- **Tuesday, November 17, 2020**
+
+- **Thursday, November 19, 2020**
+
+---
+
+## Week 11, 11/23 - 11/26: 
+
+- **Tuesday, November 24, 2020**
+
+- **Thursday, November 26, 2020**
+
+---
+
+## Week 12, 11/30 - 12/03: 
+
+- **Tuesday, December 1, 2020**
+
+- **Thursday, December 3, 2020**
+
+---
+
+## Week 13, 12/07 - 12/10: 
+
+- **Tuesday, December 8, 2020**
+
+- **Thursday, December 10, 2020**
+
+---
+
+## Week 14, 12/14 - 12/17: 
+
+- **Tuesday, December 15, 2020**
+
+- **Thursday, December 17, 2020**
+
+---
+
+## Week 15, 12/21 - 12/24: 
+
+- **Tuesday, December 22, 2020**
+
+- **Thursday, December 24, 2020**
+
+---
+
+## Week 16, 12/28 - 12/31: 
+
+- **Tuesday, December 29, 2020**
+
+- **Thursday, December 31, 2020**
 
 ---
