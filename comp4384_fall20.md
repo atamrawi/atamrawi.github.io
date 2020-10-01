@@ -59,7 +59,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 04, 09/28 - 10/01: Integer Overflow Attacks
+## ~~Week 04, 09/28 - 10/01: Integer Overflow Attacks~~
 
 - **Tuesday, September 29, 2020**
    - Due: Assignment 1 at 1:00 PM
@@ -73,12 +73,13 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 05, 10/05 - 10/08: Integer/Buffer Overflow Attacks
+## Week 05, 10/05 - 10/08: Integer Overflow Attacks
 
 - **Tuesday, October 6, 2020**
    - Lecture: Continue [Integer Overflow Attacks](/teaching/comp4384-fall20/05-Integer_Overflow_Attacks.pdf)
 
 - **Thursday, October 8, 2020**
+   - Lecture: Continue [Integer Overflow Attacks](/teaching/comp4384-fall20/05-Integer_Overflow_Attacks.pdf)
 
 ---
 
