@@ -68,7 +68,7 @@ permalink: /teaching/comp4384_fall20
 - **Thursday, October 1, 2020**
    - Assignments: [Assignment 2](/teaching/comp4384-fall20/COMP4384-Assignment2.pdf) (due on Thursday, October 15, 2020 at 1:00 PM)
    - Lecture: [Integer Overflow Attacks](/teaching/comp4384-fall20/05-Integer_Overflow_Attacks.pdf)
-   - Reading: Section 3.4.2
+   - Reading: Section 3.4.2 from [B1]
    - Extra Reading: Section 7.1 from [B4], Chapter 7 from [B6], [Basic Integer Overflows](http://phrack.org/issues/60/10.html), [When integers go bad!](https://blog.feabhas.com/2014/10/vulnerabilities-in-c-when-integers-go-bad/)
 
 ---
