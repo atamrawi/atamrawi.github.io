@@ -33,14 +33,14 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 03, Saturday, September 26, 2020
+### ~~Week 03, Saturday, September 26, 2020~~
 - **Lecture:** [Agile Development and Requirements Engineering](/teaching/swen6301-fall20/SWEN6301_Module_03.pdf)
 - **Final Project** [Final Project](teaching/swen6301-fall20/SWEN6301-Project.pdf)
 - **Reading:** Chapter 3 (SE1) and Chapter 4 (SE1)
 
 ---
 
-### Week 04, Saturday, October 3, 2020
+### ~~Week 04, Saturday, October 3, 2020~~
 - **Due:** Assignment 1 at 2:00 PM
 - **Assignments:** [Assignment 2](teaching/swen6301-fall20/SWEN6301-Assignment2.pdf) (due on Saturday, October 24, 2020 at 2:00 PM)
 - **Final Project** [Final Project](teaching/swen6301-fall20/SWEN6301-Project.pdf)
@@ -50,6 +50,9 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 05, Saturday, October 10, 2020
+- **Lecture:** Continue [System Modeling and Architectural Design](/teaching/swen6301-fall20/SWEN6301_Module_04.pdf) and [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
+- **Activity** [CrackMe.java](https://gist.github.com/atamrawi/be5f2c23641f00c2cba41f0b6c6e7f62)
+- **Reading:** Chapter 6 (SE1) and Chapters 1, 4, and 5 (CC1)
 
 ---
 

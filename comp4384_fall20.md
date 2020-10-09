@@ -73,7 +73,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 05, 10/05 - 10/08: Integer Overflow Attacks
+## ~~Week 05, 10/05 - 10/08: Integer Overflow Attacks~~
 
 - **Tuesday, October 6, 2020**
    - Lecture: Continue [Integer Overflow Attacks](/teaching/comp4384-fall20/05-Integer_Overflow_Attacks.pdf)
