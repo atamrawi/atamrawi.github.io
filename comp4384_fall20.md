@@ -86,23 +86,23 @@ permalink: /teaching/comp4384_fall20
 ## Week 06, 10/12 - 10/15: Buffer Overflow Attacks
 
 - **Tuesday, October 13, 2020**
-   - Lecture: [Buffer Overflow Attacks](/teaching/comp4384-fall20/006-Buffer_Overflow_Attacks.pdf)
+   - Lecture: [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
    - Reading: Section 3.4.3 and Section 3.4.4 from [B1], Section 6.1 and Section 7.2 from [B4], [Buffer Overflow Module (bomod)](https://github.com/benjholla/bomod)
    - Extra Reading: Chapter 5 from [B6], [Smashing the Stack (for Fun and Profit)](http://phrack.org/issues/49/14.html).
 
 - **Thursday, October 15, 2020**
    - Due: Assignment 2 at 1:00 PM
-   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/006-Buffer_Overflow_Attacks.pdf)   
+   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)   
 
 ---
 
 ## Week 07, 10/19 - 10/22: Buffer Overflow Attacks
 
 - **Tuesday, October 20, 2020**
-   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/006-Buffer_Overflow_Attacks.pdf)
+   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
 
 - **Thursday, October 22, 2020**
-   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/006-Buffer_Overflow_Attacks.pdf)
+   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
 
 ---
 
