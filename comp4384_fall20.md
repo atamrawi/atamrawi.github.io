@@ -100,6 +100,7 @@ permalink: /teaching/comp4384_fall20
 
 - **Tuesday, October 20, 2020**
    - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
+   - Extra Reading: [How a CPU works and Introduction to Assembler](https://www.youtube.com/watch?v=6jSKldt7Eqs), [Guessing vs. Not Knowing in Hacking and CTFs](https://www.youtube.com/watch?v=L1RvK1443Yw)
 
 - **Thursday, October 22, 2020**
    - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
