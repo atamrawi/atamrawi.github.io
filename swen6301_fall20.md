@@ -49,7 +49,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 05, Saturday, October 10, 2020
+### ~~Week 05, Saturday, October 10, 2020~~
 - **Lecture:** Continue [System Modeling and Architectural Design](/teaching/swen6301-fall20/SWEN6301_Module_04.pdf) and [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
 - **Activity** [CrackMe.java](https://gist.github.com/atamrawi/be5f2c23641f00c2cba41f0b6c6e7f62)
 - **Reading:** Chapter 6 (SE1) and Chapters 1, 4, and 5 (CC1)
@@ -57,6 +57,7 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 06, Saturday, October 17, 2020
+- No Class
 
 ---
 

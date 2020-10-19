@@ -83,7 +83,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 06, 10/12 - 10/15: Buffer Overflow Attacks
+## ~~Week 06, 10/12 - 10/15: Buffer Overflow Attacks~~
 
 - **Tuesday, October 13, 2020**
    - Lecture: [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
@@ -106,15 +106,17 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 08, 10/26 - 10/29: 
+## Week 08, 10/26 - 10/29: Buffer Overflow Attacks
 
 - **Tuesday, October 27, 2020**
+   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
 
 - **Thursday, October 29, 2020**
+   - No Class
 
 ---
 
-## Week 09, 11/02 - 11/05: 
+## Week 09, 11/02 - 11/05: Other Application Program Security Attacks
 
 - **Tuesday, November 03, 2020**
 
