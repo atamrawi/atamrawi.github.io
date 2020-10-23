@@ -96,7 +96,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 07, 10/19 - 10/22: Buffer Overflow Attacks
+## ~~Week 07, 10/19 - 10/22: Buffer Overflow Attacks~~
 
 - **Tuesday, October 20, 2020**
    - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
