@@ -179,5 +179,6 @@ permalink: /teaching/comp4384_fall20
 - **Tuesday, December 22, 2020**
 
 - **Thursday, December 24, 2020**
+   - No Class
 
 ---

@@ -95,15 +95,11 @@ permalink: /teaching/swen6301_fall20
 
 ### Week 14, Saturday, December 12, 2020
 - **Due:** Part B of the Final Project at 2:00 PM
-
----
-
-### Week 15, Saturday, December 19, 2020
 - Final Project Presentations
 
 ---
 
-### Week 16, Saturday, December 26, 2020
+### Week 15, Saturday, December 19, 2020
 - Final Project Presentations
 
 ---
