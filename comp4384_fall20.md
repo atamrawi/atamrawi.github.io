@@ -104,6 +104,7 @@ permalink: /teaching/comp4384_fall20
 
 - **Thursday, October 22, 2020**
    - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
+   - Extra Reading: [Reversing and Cracking first simple Program](https://www.youtube.com/watch?v=VroEiMOJPm8), [Simple Tools and Techniques for Reversing a binary](https://www.youtube.com/watch?v=3NTXFUxcKPc)
 
 ---
 

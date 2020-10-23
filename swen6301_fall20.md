@@ -56,13 +56,15 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 06, Saturday, October 17, 2020
+### ~~Week 06, Saturday, October 17, 2020~~
 - No Class
 
 ---
 
 ### Week 07, Saturday, October 24, 2020
 - **Due:** Assignment 2 at 2:00 PM
+- **Lecture:** Continue [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
+- **Reading:** Chapters 1, 4, and 5 (CC1)
 
 ---
 
@@ -97,10 +99,12 @@ permalink: /teaching/swen6301_fall20
 ---
 
 ### Week 15, Saturday, December 19, 2020
+- Final Project Presentations
 
 ---
 
 ### Week 16, Saturday, December 26, 2020
+- Final Project Presentations
 
 ---
 
