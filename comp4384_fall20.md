@@ -112,7 +112,7 @@ permalink: /teaching/comp4384_fall20
 
 - **Tuesday, October 27, 2020**
    - Assignments: [Assignment 3](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, November 17, 2020 at 1:00 PM)
-   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks-Low_Quality.pdf), [High Quality Version](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks.pdf)
+   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks-Low_Quality.pdf), [High Quality Version](https://drive.google.com/file/d/1lSh88lA-RDicNkujAVIljWvfkaATYhY9/view?usp=sharing)
 
 - **Thursday, October 29, 2020**
    - No Class
