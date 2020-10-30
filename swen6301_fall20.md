@@ -61,7 +61,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 07, Saturday, October 24, 2020
+### ~~Week 07, Saturday, October 24, 2020~~
 - **Due:** Assignment 2 at 2:00 PM
 - **Lecture:** Continue [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
 - **Reading:** Chapters 1, 4, and 5 (CC1)
@@ -70,26 +70,41 @@ permalink: /teaching/swen6301_fall20
 
 ### Week 08, Saturday, October 31, 2020
 - **Due:** Part A for the Final Project at 2:00 PM
+- **Assignments:** [Assignment 3](teaching/swen6301-fall20/SWEN6301-Assignment3.pdf) (due on Saturday, November 14, 2020 at 2:00 PM)
+- **Lecture:** Continue [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
+- **Reading:** Chapters 6, 7, and 8 (CC1)
 
 ---
 
 ### Week 09, Saturday, November 7, 2020
+- **Lecture:** [High-Quality Variables](/teaching/swen6301-fall20/SWEN6301_Module_06.pdf).
+- **Reading:** Chapters 10 and 11 from (CC1)
 
 ---
 
 ### Week 10, Saturday, November 14, 2020
+- **Due:** Assignment 3 at 2:00 PM
+- **Assignments:** [Assignment 4](teaching/swen6301-fall20/SWEN6301-Assignment4.pdf) (due on Saturday, December 21, 2020 at 2:00 PM)
+- **Lecture:** [Code Tuning and Refactoring](/teaching/swen6301-fall20/SWEN6301_Module_07.pdf).
+- **Reading:** Chapters 24, 25 and 26 from (CC1)
 
 ---
 
 ### Week 11, Saturday, November 21, 2020
+- **Lecture:** [Software Testing](/teaching/swen6301-fall20/SWEN6301_Module_08.pdf).
+- **Reading:** Chapter 8 from (SE1) and Chapter 22 from (CC1)
 
 ---
 
 ### Week 12, Saturday, November 28, 2020
+- **Lecture:** [Software Evolution and Configuration Management](/teaching/swen6301-fall20/SWEN6301_Module_09.pdf).
+- **Reading:** Chapters 9 and 15 from (SE1)
 
 ---
 
 ### Week 13, Saturday, December 5, 2020
+- **Lecture:** [System Dependability and Security](/teaching/swen6301-fall20/SWEN6301_Module_10.pdf).
+- **Reading:** Chapters 10 and 13 from (SE1)
 
 ---
 
