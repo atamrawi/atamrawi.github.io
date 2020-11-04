@@ -122,7 +122,7 @@ permalink: /teaching/comp4384_fall20
 ## Week 09, 11/02 - 11/05: Buffer Overflow Attacks
 
 - **Tuesday, November 03, 2020**
-   - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks-Low_Quality.pdf), [High Quality Version](https://drive.google.com/file/d/1lSh88lA-RDicNkujAVIljWvfkaATYhY9/view?usp=sharing)
+   - No Class
 
 - **Thursday, November 05, 2020**
    - Lecture: Continue [Buffer Overflow Attacks](/teaching/comp4384-fall20/06-Buffer_Overflow_Attacks-Low_Quality.pdf)
