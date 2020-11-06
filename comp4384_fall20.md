@@ -132,7 +132,7 @@ permalink: /teaching/comp4384_fall20
 ## Week 10, 11/09 - 11/12: Application Program Security Attacks
 
 - **Tuesday, November 10, 2020**
-   - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, November 17, 2020 at 1:00 PM)
+   - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, December 15, 2020 at 1:00 PM)
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
    - Reading: Section 3.4.5 and Section 3.4.6 from [B1], Section 6.2 and Chapter 12 from [B4]
    - Extra Reading: Chapters 6 and 10 from [B6]
