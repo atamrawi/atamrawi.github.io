@@ -119,7 +119,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 09, 11/02 - 11/05: Buffer Overflow Attacks
+## ~~Week 09, 11/02 - 11/05: Buffer Overflow Attacks~~
 
 - **Tuesday, November 03, 2020**
    - No Class
@@ -132,8 +132,13 @@ permalink: /teaching/comp4384_fall20
 ## Week 10, 11/09 - 11/12: Application Program Security Attacks
 
 - **Tuesday, November 10, 2020**
+   - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, November 17, 2020 at 1:00 PM)
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
+   - Reading: Section 3.4.5 and Section 3.4.6 from [B1], Section 6.2 and Chapter 12 from [B4]
+   - Extra Reading: Chapters 6 and 10 from [B6]
 
 - **Thursday, November 12, 2020**
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 ---
 
@@ -142,8 +147,10 @@ permalink: /teaching/comp4384_fall20
 - **Tuesday, November 17, 2020**
    - Due: Assignment 3 at 1:00 PM
    - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 1, 2020 at 1:00 PM)
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 - **Thursday, November 19, 2020**
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 ---
 
@@ -176,6 +183,7 @@ permalink: /teaching/comp4384_fall20
 ## Week 15, 12/14 - 12/17: Algorithmic Complexity and Side-Channel Attacks
 
 - **Tuesday, December 15, 2020**
+   - Due: Assignment 3 at 1:00 PM
 
 - **Thursday, December 17, 2020**
 

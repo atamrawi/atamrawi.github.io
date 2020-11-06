@@ -68,7 +68,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 08, Saturday, October 31, 2020
+### ~~Week 08, Saturday, October 31, 2020~~
 - **Due:** Part A for the Final Project at 2:00 PM
 - **Assignments:** [Assignment 3](teaching/swen6301-fall20/SWEN6301-Assignment3.pdf) (due on Saturday, November 14, 2020 at 2:00 PM)
 - **Lecture:** Continue [Software Construction](/teaching/swen6301-fall20/SWEN6301_Module_05.pdf)
