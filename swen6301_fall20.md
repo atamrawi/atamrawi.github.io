@@ -76,7 +76,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 09, Saturday, November 7, 2020
+### ~~Week 09, Saturday, November 7, 2020~~
 - **Lecture:** [High-Quality Variables](/teaching/swen6301-fall20/SWEN6301_Module_06.pdf).
 - **Reading:** Chapters 10 and 11 from (CC1)
 
