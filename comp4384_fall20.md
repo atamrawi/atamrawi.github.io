@@ -129,43 +129,43 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 10, 11/09 - 11/12: Application Program Security Attacks
+## ~~Week 10, 11/09 - 11/12: Application Program Security Attacks~~
 
 - **Tuesday, November 10, 2020**
-   - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, December 15, 2020 at 1:00 PM)
-   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
-   - Reading: Section 3.4.5 and Section 3.4.6 from [B1], Section 6.2 and Chapter 12 from [B4]
-   - Extra Reading: Chapters 6 and 10 from [B6]
+   - No Class
 
 - **Thursday, November 12, 2020**
-   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
+   - No Class
 
 ---
 
 ## Week 11, 11/16 - 11/19: Application Program Security Attacks
 
 - **Tuesday, November 17, 2020**
-   - Due: Assignment 3 at 1:00 PM
-   - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 1, 2020 at 1:00 PM)
+   - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, December 15, 2020 at 1:00 PM)
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
+   - Reading: Section 3.4.5 and Section 3.4.6 from [B1], Section 6.2 and Chapter 12 from [B4]
+   - Extra Reading: Chapters 6 and 10 from [B6]
 
 - **Thursday, November 19, 2020**
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 ---
 
-## Week 12, 11/23 - 11/26: Web Security
+## Week 12, 11/23 - 11/26: Application Program Security Attacks
 
 - **Tuesday, November 24, 2020**
+   - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 1, 2020 at 1:00 PM)
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 - **Thursday, November 26, 2020**
+   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 ---
 
 ## Week 13, 11/30 - 12/03: Web Security
 
 - **Tuesday, December 1, 2020**
-   - Due: Assignment 4 at 1:00 PM
 
 - **Thursday, December 3, 2020**
 
@@ -177,6 +177,7 @@ permalink: /teaching/comp4384_fall20
    - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Tuesday, December 22, 2020 at 1:00 PM)
 
 - **Thursday, December 10, 2020**
+   - Due: Assignment 4 at 1:00 PM
 
 ---
 
