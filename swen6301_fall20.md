@@ -82,7 +82,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 10, Saturday, November 14, 2020
+### ~~Week 10, Saturday, November 14, 2020~~
 - **Due:** Assignment 3 at 2:00 PM
 - **Assignments:** [Assignment 4](teaching/swen6301-fall20/SWEN6301-Assignment4.pdf) (due on Saturday, December 21, 2020 at 2:00 PM)
 - **Lecture:** [Code Tuning and Refactoring](/teaching/swen6301-fall20/SWEN6301_Module_07.pdf).

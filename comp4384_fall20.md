@@ -139,7 +139,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 11, 11/16 - 11/19: Application Program Security Attacks
+## ~~Week 11, 11/16 - 11/19: Application Program Security Attacks~~
 
 - **Tuesday, November 17, 2020**
    - Assignments: [Assignment 3 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment3.pdf) (due on Tuesday, December 15, 2020 at 1:00 PM)
@@ -155,10 +155,10 @@ permalink: /teaching/comp4384_fall20
 ## Week 12, 11/23 - 11/26: Application Program Security Attacks
 
 - **Tuesday, November 24, 2020**
-   - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 1, 2020 at 1:00 PM)
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 - **Thursday, November 26, 2020**
+   - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Thursday, December 10, 2020 at 1:00 PM)
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 ---
@@ -174,10 +174,10 @@ permalink: /teaching/comp4384_fall20
 ## Week 14, 12/07 - 12/10: Web Security
 
 - **Tuesday, December 8, 2020**
-   - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Tuesday, December 22, 2020 at 1:00 PM)
 
 - **Thursday, December 10, 2020**
    - Due: Assignment 4 at 1:00 PM
+   - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Thuresday, December 24, 2020 at 1:00 PM)
 
 ---
 
@@ -193,10 +193,10 @@ permalink: /teaching/comp4384_fall20
 ## Week 16, 12/21 - 12/24: CVEs and CWEs
 
 - **Tuesday, December 22, 2020**
-   - Due: Assignment 5 at 1:00 PM
    - Assignments: [Assignment 6](/teaching/comp4384-fall20/COMP4384-Assignment6.pdf) (due on Tuesday, January 5, 2021 at 1:00 PM)
 
 - **Thursday, December 24, 2020**
+   - Due: Assignment 5 at 1:00 PM
    - No Class
 
 ---
