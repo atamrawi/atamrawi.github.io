@@ -90,7 +90,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 11, Saturday, November 21, 2020
+### ~~Week 11, Saturday, November 21, 2020~~
 - **Lecture:** [Software Testing](/teaching/swen6301-fall20/SWEN6301_Module_08.pdf).
 - **Reading:** Chapter 8 from (SE1) and Chapter 22 from (CC1)
 
@@ -108,18 +108,14 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 14, Saturday, December 12, 2020
+### Week 14, Saturday, January 16, 2021
 - **Due:** Part B of the Final Project at 2:00 PM
 - Final Project Presentations
+- **Exam:** Final Exam (due on Friday, January 22, 2021 @ 11:59 PM),
 
 ---
 
-### Week 15, Saturday, December 19, 2020
+### Week 16, Saturday, January 23, 2021
 - Final Project Presentations
-
----
-
-### TBD
-- **Exam:** Final Exam
 
 ---
