@@ -169,7 +169,7 @@ permalink: /teaching/comp4384_fall20
    - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/07-Other_Application_Program_Attacks.pdf)
 
 - **Thursday, December 3, 2020**
-   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/08-Web_Security.pdf)
+   - Lecture: [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
    - Reading: Chapter 7 from [B1], Chapter 18 from [B2], Chapter 9 from [B4]
    - Extra Reading: Chapters 2, 3 and 4 from [B6]
 
@@ -178,12 +178,12 @@ permalink: /teaching/comp4384_fall20
 ## Week 14, 12/07 - 12/10: Web Security
 
 - **Tuesday, December 8, 2020**
-   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/08-Web_Security.pdf)
+   - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 - **Thursday, December 10, 2020**
    - Due: Assignment 4 at 1:00 PM
    - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Thuresday, December 24, 2020 at 1:00 PM)
-   - Lecture: Continue [Application Program Security Attacks](/teaching/comp4384-fall20/08-Web_Security.pdf)
+   - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 ---
 
