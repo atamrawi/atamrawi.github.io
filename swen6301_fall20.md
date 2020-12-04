@@ -96,7 +96,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 12, Saturday, November 28, 2020
+### ~~Week 12, Saturday, November 28, 2020~~
 - **Lecture:** [Software Evolution and Configuration Management](/teaching/swen6301-fall20/SWEN6301_Module_09.pdf).
 - **Reading:** Chapters 9 and 15 from (SE1)
 

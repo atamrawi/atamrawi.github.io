@@ -162,7 +162,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 13, 11/30 - 12/03: Web Security
+## ~~Week 13, 11/30 - 12/03: Web Security~~
 
 - **Tuesday, December 1, 2020**
    - Assignments: [Assignment 4](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Thursday, December 10, 2020 at 1:00 PM)
@@ -178,11 +178,10 @@ permalink: /teaching/comp4384_fall20
 ## Week 14, 12/07 - 12/10: Web Security
 
 - **Tuesday, December 8, 2020**
+   - Assignments: [Assignment 4 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 22, 2020 at 1:00 PM)
    - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 - **Thursday, December 10, 2020**
-   - Due: Assignment 4 at 1:00 PM
-   - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Thuresday, December 24, 2020 at 1:00 PM)
    - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 ---
@@ -191,18 +190,21 @@ permalink: /teaching/comp4384_fall20
 
 - **Tuesday, December 15, 2020**
    - Due: Assignment 3 at 1:00 PM
+   - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Thuresday, December 24, 2020 at 1:00 PM)
+   - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 - **Thursday, December 17, 2020**
+   - Lecture: [Algorithmic Complexity and Side-Channel Attacks](/teaching/comp4384-fall20/09-Algorithmic_Complexity_and_Side_Channel_Attacks.pdf)
 
 ---
 
-## Week 16, 12/21 - 12/24: CVEs and CWEs
+## Week 16, 12/21 - 12/24: Software Vulnerabilities Management
 
 - **Tuesday, December 22, 2020**
-   - Assignments: [Assignment 6](/teaching/comp4384-fall20/COMP4384-Assignment6.pdf) (due on Tuesday, January 5, 2021 at 1:00 PM)
+   - Due: Assignment 4 at 1:00 PM
+   - Lecture: [Software Vulnerabilities Management](/teaching/comp4384-fall20/11-Software_Vulnerabilities_Management.pdf)
 
 - **Thursday, December 24, 2020**
-   - Due: Assignment 5 at 1:00 PM
    - No Class
 
 ---
