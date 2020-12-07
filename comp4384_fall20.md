@@ -190,7 +190,6 @@ permalink: /teaching/comp4384_fall20
 
 - **Tuesday, December 15, 2020**
    - Due: Assignment 3 at 1:00 PM
-   - Assignments: [Assignment 5](/teaching/comp4384-fall20/COMP4384-Assignment5.pdf) (due on Thuresday, December 24, 2020 at 1:00 PM)
    - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 - **Thursday, December 17, 2020**
