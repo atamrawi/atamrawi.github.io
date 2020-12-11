@@ -102,7 +102,7 @@ permalink: /teaching/swen6301_fall20
 
 ---
 
-### Week 13, Saturday, December 5, 2020
+### ~~Week 13, Saturday, December 5, 2020~~
 - **Lecture:** [System Dependability and Security](/teaching/swen6301-fall20/SWEN6301_Module_10.pdf).
 - **Reading:** Chapters 10 and 13 from (SE1)
 

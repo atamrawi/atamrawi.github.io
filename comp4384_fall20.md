@@ -175,7 +175,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 14, 12/07 - 12/10: Web Security
+## ~~Week 14, 12/07 - 12/10: Web Security~~
 
 - **Tuesday, December 8, 2020**
    - Assignments: [Assignment 4 "Revision 2"](/teaching/comp4384-fall20/COMP4384-Assignment4.pdf) (due on Tuesday, December 22, 2020 at 1:00 PM)
@@ -186,7 +186,7 @@ permalink: /teaching/comp4384_fall20
 
 ---
 
-## Week 15, 12/14 - 12/17: Algorithmic Complexity and Side-Channel Attacks
+## Week 15, 12/14 - 12/17: Web Security
 
 - **Tuesday, December 15, 2020**
    - Due: Assignment 3 at 1:00 PM
