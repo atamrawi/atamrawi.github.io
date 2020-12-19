@@ -193,15 +193,16 @@ permalink: /teaching/comp4384_fall20
    - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
 
 - **Thursday, December 17, 2020**
-   - Lecture: Continue [Web Security](/teaching/comp4384-fall20/08-Web_Security.pdf)
+   - Lecture: [Algorithmic Complexity and Side-Channel Attacks](/teaching/comp4384-fall20/09-Algorithmic_Complexity_and_Side_Channel_Attacks.pdf)
 
 ---
 
-## Week 16, 12/21 - 12/24: Software Vulnerabilities Management
+## Week 16, 12/21 - 12/24: Security Vulnerabilities Management
 
 - **Tuesday, December 22, 2020**
    - Due: Assignment 4 at 1:00 PM
-   - Lecture: [Algorithmic Complexity and Side-Channel Attacks](/teaching/comp4384-fall20/09-Algorithmic_Complexity_and_Side_Channel_Attacks.pdf) and [Software Vulnerabilities Management](/teaching/comp4384-fall20/10-Software_Vulnerabilities_Management.pdf)
+   - Lecture:  [Security Vulnerabilities Management by Ming Chow](/teaching/comp4384-fall20/10-Security_Vulnerabilities_Management-Ming_Chow.pdf)
+   - Extra Reading: [Certifying Applications for Known Security Weaknesses by Robert Martin](/teaching/comp4384-fall20/Certifying_Applications_for_Known_Security_Weaknesses-Robert_Martin.pdf), [Introduction to CVE, CWE, and the Top 25 by Steve Coley](/teaching/comp4384-fall20/CVE_CWE_Top25-Steve_Coley.pdf), [State of Vulnerabilities 2019 by ENISA](/teaching/comp4384-fall20/State_of_Vulnerabilities_2019.pdf)
 
 - **Thursday, December 24, 2020**
    - No Class
