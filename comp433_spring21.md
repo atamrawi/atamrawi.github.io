@@ -22,12 +22,11 @@ permalink: /teaching/comp433_spring21
 ## Week 01, 02/22 - 02/24: Course Introduction
 
 - **Monday, February 22, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Course Overview](/teaching/comp433_spring21/00-Course_Overview.pdf)
 
 - **Wednesday, February 24, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Reading: Chapter 1 [B1]
    
 ---
 
