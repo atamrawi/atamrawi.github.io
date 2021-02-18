@@ -196,17 +196,5 @@ permalink: /teaching/comp433_spring21
 - **Wednesday, June 2, 2021**
    - Lecture: 
    - Reading: 
-   
----
-
-## ~~Week 16, 06/07 - 06/09: ~~
-
-- **Monday, June 7, 2021**
-   - Lecture: 
-   - Reading: 
-
-- **Wednesday, June 9, 2021**
-   - Lecture: 
-   - Reading: 
 
 ---
