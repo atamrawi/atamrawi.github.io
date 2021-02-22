@@ -10,7 +10,7 @@ permalink: /teaching/comp433_spring21
 
 **Class Meets:** Mondays and Wednesdays 11:25am-12:40pm
 
-**Syllabus:** [Revision 1](/teaching/comp433_spring21/COMP433-syllabus-spring2021.pdf)
+**Syllabus:** [Revision 2](/teaching/comp433_spring21/COMP433-syllabus-spring2021.pdf)
 
 <!--**[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfRaFT_8y3nbf5OrgjrVhZ3tqTRrfiAWwbAmu5DGCkh47ykew/viewform?usp=sf_link)**-->
 
