@@ -19,7 +19,7 @@ permalink: /teaching/comp433_spring21
 
 ## Course Schedule
 
-## Week 01, 02/22 - 02/24: Course Introduction
+## ~~Week 01, 02/22 - 02/24: Course Introduction~~
 
 - **Monday, February 22, 2021**
    - Lecture: [Course Overview](/teaching/comp433_spring21/00-Course_Overview.pdf)
@@ -33,12 +33,13 @@ permalink: /teaching/comp433_spring21
 ## Week 02, 03/01 - 03/03: Introduction to Software Engineering
 
 - **Monday, March 1, 2021**
-   - Lecture: 
-   - Reading: 
+   - Assignments: [Term Project "Phase 1"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Monday, March 15, 2021 at 2:00 PM)
+   - Lecture: [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Reading: Chapter 1 [B1]
 
 - **Wednesday, March 3, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Reading: Chapter 1 [B1]
    
 ---
 
@@ -57,6 +58,7 @@ permalink: /teaching/comp433_spring21
 ## Week 04, 03/15 - 03/17: Software Processes
 
 - **Monday, March 15, 2021**
+   - Due: Term Project "Phase 1" at 1:00 PM
    - Lecture: 
    - Reading: 
 
@@ -66,7 +68,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 05, 03/22 - 03/24: Introduction to UML
+## Week 05, 03/22 - 03/24: Requirements Engineering
 
 - **Monday, March 22, 2021**
    - Lecture: 
@@ -90,7 +92,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 07, 04/05 - 04/07: Requirements Engineering
+## Week 07, 04/05 - 04/07: System Modeling
 
 - **Monday, April 5, 2021**
    - Lecture: 
