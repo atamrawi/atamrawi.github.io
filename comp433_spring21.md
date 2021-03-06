@@ -30,39 +30,39 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 02, 03/01 - 03/03: Introduction to Software Engineering
+## ~~Week 02, 03/01 - 03/03: Introduction to Software Engineering~~
 
 - **Monday, March 1, 2021**
-   - Assignments: [Term Project "Phase 1"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Monday, March 15, 2021 at 2:00 PM)
-   - Lecture: [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Assignments: [Term Project "Phase 1" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Monday, March 17, 2021 at 2:00 PM)
+   - Lecture: Continue [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
    - Reading: Chapter 1 [B1]
 
 - **Wednesday, March 3, 2021**
-   - Lecture: [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Lecture: Continue [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
    - Reading: Chapter 1 [B1]
    
 ---
 
-## Week 03, 03/8 - 03/10: Software Processes
+## Week 03, 03/8 - 03/10: Introduction to Software Engineering
 
 - **Monday, March 8, 2021**
-   - Lecture: 
-   - Reading: 
+   - Assignments: [Term Project "Phase 1" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Monday, March 17, 2021 at 2:00 PM)
+   - No Class - [International Women's Day](https://www.internationalwomensday.com/)
 
 - **Wednesday, March 10, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Introduction to Software Engineering](/teaching/comp433_spring21/01-Introduction_To_Software_Engineering.pdf)
+   - Reading: Chapter 1 [B1]
    
 ---
 
 ## Week 04, 03/15 - 03/17: Software Processes
 
 - **Monday, March 15, 2021**
-   - Due: Term Project "Phase 1" at 1:00 PM
    - Lecture: 
    - Reading: 
 
 - **Wednesday, March 17, 2021**
+   - Due: Term Project "Phase 1" at 2:00 PM
    - Lecture: 
    - Reading: 
    
