@@ -46,7 +46,7 @@ permalink: /teaching/comp433_spring21
 ## Week 03, 03/8 - 03/10: Introduction to Software Engineering
 
 - **Monday, March 8, 2021**
-   - Assignments: [Term Project "Phase 1" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Monday, March 17, 2021 at 2:00 PM)
+   - Assignments: [Term Project "Phase 1" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Wednesday, March 17, 2021 at 2:00 PM)
    - No Class - [International Women's Day](https://www.internationalwomensday.com/)
 
 - **Wednesday, March 10, 2021**
