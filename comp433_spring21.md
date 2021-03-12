@@ -43,7 +43,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 03, 03/8 - 03/10: Introduction to Software Engineering
+## ~~Week 03, 03/8 - 03/10: Introduction to Software Engineering~~
 
 - **Monday, March 8, 2021**
    - Assignments: [Term Project "Phase 1" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-01.pdf) (due on Wednesday, March 17, 2021 at 2:00 PM)
@@ -58,13 +58,13 @@ permalink: /teaching/comp433_spring21
 ## Week 04, 03/15 - 03/17: Software Processes
 
 - **Monday, March 15, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
+   - Reading: Chapter 2 [B1]
 
 - **Wednesday, March 17, 2021**
    - Due: Term Project "Phase 1" at 2:00 PM
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
+   - Reading: Chapter 2 [B1]
    
 ---
 
