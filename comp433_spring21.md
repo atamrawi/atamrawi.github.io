@@ -76,6 +76,7 @@ permalink: /teaching/comp433_spring21
 
 - **Wednesday, March 24, 2021**
    - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 7, 2021 at 2:00 PM)
+   - Download the Software Requirements Specification Template Document
    - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
    - Reading: Chapter 3 [B1]
    
