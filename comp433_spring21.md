@@ -55,7 +55,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 04, 03/15 - 03/17: Software Processes
+## ~~Week 04, 03/15 - 03/17: Software Processes~~
 
 - **Monday, March 15, 2021**
    - Lecture: [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
@@ -68,15 +68,16 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 05, 03/22 - 03/24: Requirements Engineering
+## Week 05, 03/22 - 03/24: Software Processes
 
 - **Monday, March 22, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
+   - Reading: Chapter 3 [B1]
 
 - **Wednesday, March 24, 2021**
-   - Lecture: 
-   - Reading: 
+   - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 7, 2021 at 2:00 PM)
+   - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
+   - Reading: Chapter 3 [B1]
    
 ---
 
@@ -92,13 +93,14 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 07, 04/05 - 04/07: System Modeling
+## Week 07, 04/05 - 04/07: Requirements Engineering
 
 - **Monday, April 5, 2021**
    - Lecture: 
    - Reading: 
 
 - **Wednesday, April 7, 2021**
+   - Due: Term Project "Phase 2" at 2:00 PM
    - Lecture: 
    - Reading: 
    
@@ -128,7 +130,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 10, 04/26 - 04/28: Architectural Design
+## Week 10, 04/26 - 04/28: System Modeling
 
 - **Monday, April 26, 2021**
    - Lecture: 
@@ -140,7 +142,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 11, 05/03 - 05/05: System Modeling
+## Week 11, 05/03 - 05/05: Architectural Design
 
 - **Monday, May 3, 2021**
    - Lecture: 
@@ -152,7 +154,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 12, 05/10 - 05/12: Design and Implementation
+## Week 12, 05/10 - 05/12: Architectural Design
 
 - **Monday, May 10, 2021**
    - Lecture: 
