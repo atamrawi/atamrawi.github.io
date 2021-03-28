@@ -68,7 +68,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 05, 03/22 - 03/24: Software Processes
+## ~~Week 05, 03/22 - 03/24: Software Processes~~
 
 - **Monday, March 22, 2021**
    - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
@@ -83,33 +83,31 @@ permalink: /teaching/comp433_spring21
 ## Week 06, 03/29 - 03/31: Requirements Engineering
 
 - **Monday, March 29, 2021**
-   - Assignments: [Term Project "Phase 2" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 12, 2021 at 2:00 PM)
-   - [Software Requirements Specification Template](/teaching/comp433_spring21/COMP433-SRS-Template.docx)
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
+   - Reading: Chapter 3 [B1]
 
 - **Wednesday, March 31, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
    
 ---
 
 ## Week 07, 04/05 - 04/07: Requirements Engineering
 
 - **Monday, April 5, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
 
 - **Wednesday, April 7, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
    
 ---
 
 ## Week 08, 04/12 - 04/14: System Modeling
 
 - **Monday, April 12, 2021**
-   - Due: Term Project "Phase 2" at 2:00 PM
+   - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 26, 2021 at 2:00 PM)
    - Lecture: 
    - Reading: 
 
@@ -134,6 +132,7 @@ permalink: /teaching/comp433_spring21
 ## Week 10, 04/26 - 04/28: System Modeling
 
 - **Monday, April 26, 2021**
+   - Due: Term Project "Phase 2" at 2:00pm
    - Lecture: 
    - Reading: 
 
