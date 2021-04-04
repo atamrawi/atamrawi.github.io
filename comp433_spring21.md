@@ -80,7 +80,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 06, 03/29 - 03/31: Requirements Engineering
+## ~~Week 06, 03/29 - 03/31: Requirements Engineering~~
 
 - **Monday, March 29, 2021**
    - Lecture: Continue [Software Processes](/teaching/comp433_spring21/02-Software_Processes.pdf)
@@ -108,6 +108,7 @@ permalink: /teaching/comp433_spring21
 
 - **Monday, April 12, 2021**
    - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 26, 2021 at 2:00 PM)
+   - [Software Sprecification Document Template](/teaching/comp433_spring21/COMP433-SRS-Template.docx)
    - Lecture: 
    - Reading: 
 
