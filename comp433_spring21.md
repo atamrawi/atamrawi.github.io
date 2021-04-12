@@ -104,17 +104,17 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 08, 04/12 - 04/14: System Modeling
+## Week 08, 04/12 - 04/14: Requirements Engineering
 
 - **Monday, April 12, 2021**
    - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 26, 2021 at 2:00 PM)
    - [Software Sprecification Document Template](/teaching/comp433_spring21/COMP433-SRS-Template.docx)
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
 
 - **Wednesday, April 14, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
    
 ---
 
