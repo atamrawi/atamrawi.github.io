@@ -92,7 +92,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 07, 04/05 - 04/07: Requirements Engineering
+## ~~Week 07, 04/05 - 04/07: Requirements Engineering~~
 
 - **Monday, April 5, 2021**
    - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
