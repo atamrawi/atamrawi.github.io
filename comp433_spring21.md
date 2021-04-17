@@ -104,7 +104,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 08, 04/12 - 04/14: Requirements Engineering
+## ~~Week 08, 04/12 - 04/14: Requirements Engineering~~
 
 - **Monday, April 12, 2021**
    - Assignments: [Term Project "Phase 2"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on April 26, 2021 at 2:00 PM)
@@ -121,16 +121,16 @@ permalink: /teaching/comp433_spring21
 ## Week 09, 04/19 - 04/21: System Modeling
 
 - **Monday, April 19, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
+   - Reading: Chapter 4 [B1]
 
 - **Wednesday, April 21, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [System Modeling](/teaching/comp433_spring21/04-System_Modeling.pdf)
+   - Reading: Chapter 5 [B1]
    
 ---
 
-## Week 10, 04/26 - 04/28: System Modeling
+## Week 10, 04/26 - 04/28: System Modeling with UML
 
 - **Monday, April 26, 2021**
    - Due: Term Project "Phase 2" at 2:00pm
@@ -143,7 +143,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 11, 05/03 - 05/05: Architectural Design
+## Week 11, 05/03 - 05/05: System Modeling with UML
 
 - **Monday, May 3, 2021**
    - Lecture: 
@@ -155,7 +155,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 12, 05/10 - 05/12: Architectural Design
+## Week 12, 05/10 - 05/12: System Modeling with UML
 
 - **Monday, May 10, 2021**
    - Lecture: 
@@ -167,7 +167,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 13, 05/17 - 05/19: Software Testing
+## Week 13, 05/17 - 05/19: Architectural Design
 
 - **Monday, May 17, 2021**
    - Lecture: 
@@ -179,7 +179,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 14, 05/24 - 05/26: Software Evolution
+## Week 14, 05/24 - 05/26: Architectural Design
 
 - **Monday, May 24, 2021**
    - Lecture: 
