@@ -125,6 +125,7 @@ permalink: /teaching/comp433_spring21
    - Reading: Chapter 4 [B1]
 
 - **Wednesday, April 21, 2021**
+   - Assignments: [Term Project "Phase 2" (Revision 2)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-02.pdf) (due on Monday, May 3, 2021 at 2:00 PM)
    - Lecture: [System Modeling](/teaching/comp433_spring21/04-System_Modeling.pdf)
    - Reading: Chapter 5 [B1]
    
@@ -133,7 +134,6 @@ permalink: /teaching/comp433_spring21
 ## Week 10, 04/26 - 04/28: System Modeling with UML
 
 - **Monday, April 26, 2021**
-   - Due: Term Project "Phase 2" at 2:00pm
    - Lecture: 
    - Reading: 
 
@@ -146,6 +146,7 @@ permalink: /teaching/comp433_spring21
 ## Week 11, 05/03 - 05/05: System Modeling with UML
 
 - **Monday, May 3, 2021**
+   - Due: Term Project "Phase 2" at 2:00pm
    - Lecture: 
    - Reading: 
 
