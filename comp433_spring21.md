@@ -118,7 +118,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 09, 04/19 - 04/21: System Modeling
+## ~~Week 09, 04/19 - 04/21: System Modeling~~
 
 - **Monday, April 19, 2021**
    - Lecture: Continue [Requirements Engineering](/teaching/comp433_spring21/03-Requirements_Engineering.pdf)
@@ -134,12 +134,12 @@ permalink: /teaching/comp433_spring21
 ## Week 10, 04/26 - 04/28: System Modeling with UML
 
 - **Monday, April 26, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [System Modeling](/teaching/comp433_spring21/04-System_Modeling.pdf)
+   - Reading: Chapter 5 [B1]
 
 - **Wednesday, April 28, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [System Modeling with UML](/teaching/comp433_spring21/05-01-System_Modeling_with_UML.pdf)
+   - Reading: Chapter 2 [B2]
    
 ---
 
@@ -147,36 +147,36 @@ permalink: /teaching/comp433_spring21
 
 - **Monday, May 3, 2021**
    - Due: Term Project "Phase 2" at 2:00pm
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Use Case Diagram](/teaching/comp433_spring21/05-02-Use_Case_Diagram.pdf)
+   - Reading: Chapter 3 [B2]
 
 - **Wednesday, May 5, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Class Diagram](/teaching/comp433_spring21/05-03-Class_Diagram.pdf)
+   - Reading: Chapter 4 [B2]
    
 ---
 
 ## Week 12, 05/10 - 05/12: System Modeling with UML
 
 - **Monday, May 10, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [State Machine Diagram](/teaching/comp433_spring21/05-04-State_Machine_Diagram.pdf)
+   - Reading: Chapter 5 [B2]
 
 - **Wednesday, May 12, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Sequence Diagram](/teaching/comp433_spring21/05-05-Sequence_Diagram.pdf)
+   - Reading: Chapter 6 [B2]
    
 ---
 
-## Week 13, 05/17 - 05/19: Architectural Design
+## Week 13, 05/17 - 05/19: System Modeling with UML
 
 - **Monday, May 17, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Activity Diagram](/teaching/comp433_spring21/05-06-Activity_Diagram.pdf)
+   - Reading: Chapter 7 [B2]
 
 - **Wednesday, May 19, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Component and Deployment Diagrams](/teaching/comp433_spring21/05-07-Component_Deployment_Diagrams.pdf)
+   - Reading: Online Resources
    
 ---
 
@@ -192,7 +192,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 15, 05/31 - 06/02: Configuration Management
+## Week 15, 05/31 - 06/02: Architectural Design
 
 - **Monday, May 31, 2021**
    - Lecture: 
