@@ -158,6 +158,7 @@ permalink: /teaching/comp433_spring21
 ## Week 12, 05/10 - 05/12: System Modeling with UML
 
 - **Monday, May 10, 2021**
+   - Assignments: [Term Project "Phase 3"](/teaching/comp433_spring21/COMP433-Term_Project-Phase-03.pdf) (due on May 26, 2021 at 2:00 PM)
    - Lecture: [Class Diagrams](/teaching/comp433_spring21/05-03-Class_Diagram.pdf)
    - Reading: Chapter 4 [B2]
 
@@ -186,6 +187,7 @@ permalink: /teaching/comp433_spring21
    - Reading: Online Resources
 
 - **Wednesday, May 26, 2021**
+   - Due: Term Project "Phase 3" at 2:00pm
    - Lecture: 
    - Reading: 
    
