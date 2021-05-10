@@ -202,6 +202,8 @@ permalink: /teaching/comp433_spring21
    - Lecture: 
    - Reading: 
 
+---   
+
 ## Week 16, 06/7 - 06/09: Architectural Design
 
 - **Monday, June 7, 2021**
