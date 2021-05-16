@@ -155,7 +155,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 12, 05/10 - 05/12: System Modeling with UML
+## ~~Week 12, 05/10 - 05/12: System Modeling with UML~~
 
 - **Monday, May 10, 2021**
    - Lecture: Continue [Use Case Diagram](/teaching/comp433_spring21/05-02-Use_Case_Diagram.pdf)
@@ -174,16 +174,16 @@ permalink: /teaching/comp433_spring21
    - Reading: Chapter 4 [B2]
 
 - **Wednesday, May 19, 2021**
-   - Lecture: [Sequence Diagram](/teaching/comp433_spring21/05-04-Sequence_Diagram.pdf)
-   - Reading: Chapter 6 [B2]
+   - Lecture: [Class Diagrams](/teaching/comp433_spring21/05-03-Class_Diagram.pdf)
+   - Reading: Chapter 4 [B2]
    
 ---
 
 ## Week 14, 05/24 - 05/26: Architectural Design
 
 - **Monday, May 24, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Sequence Diagram](/teaching/comp433_spring21/05-04-Sequence_Diagram.pdf)
+   - Reading: Chapter 6 [B2]
 
 - **Wednesday, May 26, 2021**
    - Lecture: 
