@@ -186,6 +186,7 @@ permalink: /teaching/comp433_spring21
    - Reading: Chapter 4 [B2]
 
 - **Wednesday, May 26, 2021**
+   - Assignments: [Term Project "Phase 3" (Revision 3)](/teaching/comp433_spring21/COMP433-Term_Project-Phase-03.pdf) (due on June 10, 2021 at 2:00 PM)
    - Lecture: [Sequence Diagram](/teaching/comp433_spring21/05-04-Sequence_Diagram.pdf)
    - Reading: Chapter 6 [B2]
    
@@ -194,24 +195,25 @@ permalink: /teaching/comp433_spring21
 ## Week 15, 05/31 - 06/02: Architectural Design
 
 - **Monday, May 31, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Sequence Diagram](/teaching/comp433_spring21/05-04-Sequence_Diagram.pdf)
+   - Reading: Chapter 6 [B2]
 
 - **Wednesday, June 2, 2021**
-   - Due: Term Project "Phase 3" at 2:00pm
-   - Lecture: 
-   - Reading: 
+   - Lecture: [Architectural Design](/teaching/comp433_spring21/06-Architectural_Design.pdf)
+   - Reading: Chapter 6 [B1]
 
 ---   
 
 ## Week 16, 06/7 - 06/09: Architectural Design
 
 - **Monday, June 7, 2021**
-   - Lecture: 
-   - Reading: 
+   - Lecture: Continue [Architectural Design](/teaching/comp433_spring21/06-Architectural_Design.pdf)
+   - Reading: Chapter 6 [B1]
 
 - **Wednesday, June 9, 2021**
-   - Lecture: 
-   - Reading: 
+   - No Class
+
+- **Thursday, June 10, 2021**
+   - Due: Term Project "Phase 3" at 2:00pm
 
 ---
