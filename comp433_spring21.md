@@ -179,7 +179,7 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 14, 05/24 - 05/26: System Modeling with UML
+## ~~Week 14, 05/24 - 05/26: System Modeling with UML~~
 
 - **Monday, May 24, 2021**
    - Lecture: Continue [Class Diagram](/teaching/comp433_spring21/05-03-Class_Diagram.pdf)
@@ -192,26 +192,17 @@ permalink: /teaching/comp433_spring21
    
 ---
 
-## Week 15, 05/31 - 06/02: Architectural Design
+## Week 15, 05/31 - 06/02: System Modeling with UML
 
 - **Monday, May 31, 2021**
-   - Lecture: Continue [Sequence Diagram](/teaching/comp433_spring21/05-04-Sequence_Diagram.pdf)
-   - Reading: Chapter 6 [B2]
+   - Lecture: [UML Revision](/teaching/comp433_spring21/05-05-Revision.pdf)
 
 - **Wednesday, June 2, 2021**
-   - Lecture: [Architectural Design](/teaching/comp433_spring21/06-Architectural_Design.pdf)
-   - Reading: Chapter 6 [B1]
+   - Lecture: [UML Revision](/teaching/comp433_spring21/05-05-Revision.pdf)
 
 ---   
 
 ## Week 16, 06/7 - 06/09: Architectural Design
-
-- **Monday, June 7, 2021**
-   - Lecture: Continue [Architectural Design](/teaching/comp433_spring21/06-Architectural_Design.pdf)
-   - Reading: Chapter 6 [B1]
-
-- **Wednesday, June 9, 2021**
-   - No Class
 
 - **Thursday, June 10, 2021**
    - Due: Term Project "Phase 3" at 2:00pm
