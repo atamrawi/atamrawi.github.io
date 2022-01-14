@@ -9,6 +9,15 @@ This page contains selected talks, papers, and other publications.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jwmSlGkAAAAJ&hl=en)
 
+<a name="2022"></a>
+
+## 2022
+
+- <a name="BinaryPaper"></a>Payas Awadhutkar, Ahmed Tamrawi, RyanGoluch, Suresh Kothari. **Control Flow Equivalence Method for Establishing Sanctity of Compiling.** *[Computers & Security](https://www.sciencedirect.com/science/journal/01674048)*, January 2022.<br/>
+**Paper:**&nbsp;[<a href="#" class="toggle-abstract">Abstract</a>]&nbsp;[[Paper](https://www.sciencedirect.com/science/article/pii/S0167404822000074)]
+<div class="abstract"><p>Compiler trap doors constitute a longstanding security problem for which there is currently no  good solution. This paper presents a practical approach that shifts the focus from compiler  correctness  in its entirety to compiler  correctness for a particular software. The guarantee is that  the compiled binary's control flow is consistent with the source's control flow for a software of interest. We present an automated method to establish the equivalence by checking whether the source and the binary control flow graphs (CFGs) are isomorphic after semantics preserving graph transformations. The automated method produces evidence that can enable and simplify manual cross-checking as required to qualify an automated tool for safety-critical applications.  We believe the proposed control equivalence method and its automation would be equally useful in avionics, automotive, medical devices and other safety-critical software industries where establishing trust in the binary code is critically important.</p>
+</div>
+
 <a name="2019"></a>
 
 ## 2019
